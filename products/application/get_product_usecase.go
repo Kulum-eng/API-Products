@@ -1,8 +1,9 @@
-package applicacion
+package application
 
 import (
     "ModaVane/products/domain"
     "ModaVane/products/domain/ports"
+
 )
 
 type GetProductUseCase struct {
